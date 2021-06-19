@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Jhonny, a first year System Analysis & Development student at <a href="https://www.sp.senac.br/" target="_blank">@Senac</a> University in São Paulo. </br>
+I am currently working on my front-end developer skills because that is where my interest lies for the time being. </br>
+
+
 <!--
 **soyjho/soyjho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
